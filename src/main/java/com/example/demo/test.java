@@ -8,6 +8,6 @@ public class test {
 
     @GetMapping("/test")
     public String  main() {
-        return "rupesh kumar sunfh";
+        return "Divyansh singh";
     }
 }
